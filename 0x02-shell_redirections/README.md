@@ -1,3 +1,3 @@
 ***
-It  print  Hello, World  on  the  standard  output
+It print Hello, World on the standard output
 ***
